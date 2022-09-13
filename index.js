@@ -1,6 +1,6 @@
 test;
-commit test1
-commit test2
-commit test3
-commit test4
+push test1
+push test2
+push test3
+push test4
 commit test5
